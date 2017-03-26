@@ -1,4 +1,6 @@
-# Automated System Testing with Selenium2
+## Automated System Testing with Selenium2
+
+Ismail Cam
 
 
 ### Test cases
