@@ -2,6 +2,13 @@
 
 Ismail Cam
 
+---
+
+### Test results
+
+<img src="https://github.com/bigstepdenmark/TestingWithSelenium2/blob/master/images/Skærmbillede%202017-03-27%20kl.%2000.46.26.png?raw=true">
+
+---
 
 ### Test cases
 
